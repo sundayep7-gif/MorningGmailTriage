@@ -6,3 +6,4 @@ vimeo.com
 lovable.dev
 linkedin.com
 anthropic.com
+new client.com
